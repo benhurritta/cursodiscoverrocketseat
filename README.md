@@ -1,0 +1,2 @@
+# cursodiscoverrocketseat
+Trilha Fundamentar
